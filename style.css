@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+body{
+    background-color: pink;
+}
+.Yes{
+    border-radius: 2rem;
+    background-color:aquamarine;
+    color: black;
+    width: 150px;
+    padding: 10px;
+    margin-right: 10px;
+}
+.No{
+    border-radius: 2rem;
+    background-color: red;
+    color: white;
+    width: 50px;
+    height: 30px;
+    padding-top: 5px;
+}
+.Yes:hover{
+    width: 175px;
+    height: 50px;
+}
+.text1{
+    background-color:aqua;
+    color: white;
+    border-radius: 2rem;
+    padding: 25px;
+}
